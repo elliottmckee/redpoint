@@ -1,2 +1,2 @@
 # redpoint
-mfem thermal solver shenanigans
+mfem based thermal solver shenanigans
